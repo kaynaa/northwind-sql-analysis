@@ -40,14 +40,13 @@ A relational database project focused on transforming raw business data into act
 ---
 
 ## Results
-*Initial findings from the current analysis:*
+Initial findings from the current analysis:
 1.  Shipping Volume: Successfully identified which shipping partners handle the highest volume of orders to optimize logistics.
 2.  Sales Concentration: Found that a small percentage of products contribute to the majority of total revenue.
 3.  Employee Impact: Identified the top-performing sales representatives based on total order value generated.
+Detailed SQL code for these results can be found in the `analysis_queries.sql` file.
 
 ## Notes
 This project exists to show learning progress. Deeper analytics will be added as I continue building the project.
-
-*Detailed SQL code for these results can be found in the `analysis_queries.sql` file.*
 
 ---
