@@ -47,7 +47,8 @@ Initial findings from the current analysis:
 
 Detailed SQL code for these results can be found in the `analysis_queries.sql` file.
 
+---
+
 ## Notes
 This project exists to show learning progress. Deeper analytics will be added as I continue building the project.
 
----
