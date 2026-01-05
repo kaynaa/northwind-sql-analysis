@@ -26,7 +26,7 @@ A relational database project focused on transforming raw business data into act
 ---
 
 ## Repository Structure
-* `data`: The data used for this project (in csv).
+* `data`: The data used for this project (in CSV).
 * `NorthwindProject.db`: The fully functional SQLite database file.
 * `schema.sql`: Clean SQL script containing the `CREATE TABLE` and relationship logic.
 * `queries.sql`: A collection of business-driven SQL scripts with detailed documentation.
